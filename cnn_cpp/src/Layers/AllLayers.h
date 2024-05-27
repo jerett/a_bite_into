@@ -1,0 +1,8 @@
+#include "BatchNorm.h"
+#include "Convolution.h"
+#include "FullConnect.h"
+#include "LayerBase.h"
+#include "MaxPool.h"
+#include "ReLU.h"
+#include "Softmax.h"
+#include "SVM.h"
